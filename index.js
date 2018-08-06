@@ -1,0 +1,1 @@
+exports.getGuid = require('./lib/identifier.js');
